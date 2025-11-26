@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-**goker/Goker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a Longevity Startup at Stealth Mode
 - 🌱 I’m currently learning How to tame Agentic AI
 - 👯 I’m looking to collaborate on Healthtech, Fintech and Physical AI
