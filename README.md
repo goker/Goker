@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a Longevity Startup at Stealth Mode
+- 🔭 I’m currently working on a Startup at Stealth Mode
 - 🌱 I’m currently learning How to tame Agentic AI
 - 👯 I’m looking to collaborate on Healthtech, Fintech and Physical AI
 - 🤔 I’m looking for help with getting companies ready for software 3.0
