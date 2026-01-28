@@ -11,6 +11,7 @@
 | ID | Content | Created | Status |
 |----|---------|---------|--------|
 | 001 | [AI Agents Revolution](../posts/2026-01-15-ai-agents-revolution.md) | 2026-01-15 | In Progress |
+| 002 | [AI Alliance Reshuffle](../posts/2026-01-28-ai-alliance-reshuffle.md) | 2026-01-28 | Ready to Publish |
 
 ---
 
@@ -30,6 +31,18 @@
 | Newsletter | Email | [ ] Pending | - | - | - |
 | Medium | Cross-post | [ ] Pending | - | - | - |
 
+### 002: AI Alliance Reshuffle
+
+| Platform | Format | Status | Published | Link | Engagement |
+|----------|--------|--------|-----------|------|------------|
+| LinkedIn | Text Post | [~] Ready | - | - | - |
+| Twitter/X | Thread | [~] Ready | - | - | - |
+| YouTube | Short | [~] Ready | - | - | - |
+| TikTok | Short Video | [~] Ready | - | - | - |
+| Instagram | Carousel | [~] Ready | - | - | - |
+| Instagram | Reel | [~] Ready | - | - | - |
+| Newsletter | Email | [~] Ready | - | - | - |
+
 **Status Legend:**
 - [ ] Pending - Not started
 - [~] Draft - In progress
@@ -44,11 +57,13 @@
 | ID | Title | Status | Date | Impressions | Reactions | Comments | Shares |
 |----|-------|--------|------|-------------|-----------|----------|--------|
 | 001 | AI Agents Revolution | Draft | - | - | - | - | - |
+| 002 | AI Alliance Reshuffle | Ready | - | - | - | - | - |
 
 ### Twitter/X
 | ID | Title | Status | Date | Impressions | Likes | Retweets | Replies |
 |----|-------|--------|------|-------------|-------|----------|---------|
 | 001 | AI Agents Revolution | Pending | - | - | - | - | - |
+| 002 | AI Alliance Reshuffle | Ready | - | - | - | - | - |
 
 ### YouTube
 | ID | Title | Status | Date | Views | Likes | Comments | Watch Time |
@@ -116,6 +131,17 @@
 | Thu | Instagram | 001 | 11:00 AM | Pending |
 | Fri | Newsletter | 001 | 8:00 AM | Pending |
 
+### Week of January 27 - February 2, 2026
+
+| Day | Platform | Content ID | Time | Status |
+|-----|----------|------------|------|--------|
+| Tue Jan 28 | LinkedIn | 002 | 9:00 AM | Ready |
+| Tue Jan 28 | Twitter | 002 | 10:00 AM | Ready |
+| Wed Jan 29 | TikTok | 002 | 6:00 PM | Ready |
+| Wed Jan 29 | YouTube | 002 | 12:00 PM | Ready |
+| Thu Jan 30 | Instagram | 002 | 11:00 AM | Ready |
+| Fri Jan 31 | Newsletter | 002 | 8:00 AM | Ready |
+
 ---
 
 ## Performance Benchmarks
@@ -164,4 +190,4 @@
 
 ---
 
-*Last updated: January 15, 2026*
+*Last updated: January 28, 2026*
